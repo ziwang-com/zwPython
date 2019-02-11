@@ -1,6 +1,10 @@
 -# zwPython
 zwPython是基于winpython的集成式python开发平台。
-绿色设计，无需安装，解压即可直接使用，可解压到U盘，作为便携式随身开发平台。
+绿色设计，无需安装，解压即用：OOTB(开箱即用,Out Of The Box)，可解压到U盘，作为便携式随身开发平台。
+
+ZwPython is an integrated Python development platform based on winpython. 
+Green design, without installation, OOTB(开箱即用,Out Of The Box), 
+can be decompressed to U disk, as a portable portable development platform.
 
 zwPython，字王集成式python开发平台，比pythonXY更强大、更方便。
 ::更强大,内置opencv、cuda/opencl、NLTK自然语言、pygame游戏设计等多个重量级模块库。
