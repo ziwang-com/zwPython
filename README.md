@@ -32,14 +32,19 @@ zwPython=图像处理+游戏开发+数据分析+机器学习+人工智能+字体
 
 
 ::字王Git项目总览：https://github.com/ziwang-com/,
-
     包括：字王4k云字库，zwPython、zwpy_lst
-    
-::QQ群：124134140 （字王云字库&zwPython，字王项目，唯一互动平台）
-
+::QQ群：124134140 （极宽量化&zwPython，字王项目，唯一互动平台）
 ::技术Blog：http://blog.sina.com.cn/zbrow
-
-
 :: TopQuant极宽网站:http://www.topQuant.vip  字王网站:http://www.ziwang.com  
+
+
+字王网站：http://ziwang.com/
+CBF中华大字库 QQ群号：655402626
+
+![](https://github.com/ziwang-com/CBF2018/blob/master/images/zwpy2016m12.png)
+![](https://github.com/ziwang-com/CBF2018/blob/master/image/zwpython.jpg)
+
+
+
 
 
