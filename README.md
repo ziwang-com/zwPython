@@ -41,8 +41,8 @@ zwPython=图像处理+游戏开发+数据分析+机器学习+人工智能+字体
 字王网站：http://ziwang.com/
 CBF中华大字库 QQ群号：655402626
 
-![](https://github.com/ziwang-com/CBF2018/blob/master/images/zwpy2016m12.png)
-![](https://github.com/ziwang-com/CBF2018/blob/master/images/zwpython.jpg)
+![](https://github.com/ziwang-com/zwpython/blob/master/images/zwpy2016m12.png)
+![](https://github.com/ziwang-com/zwpython/blob/master/images/zwpython.jpg)
 
 
 
