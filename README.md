@@ -1,9 +1,8 @@
 ## zw-GPT-stuido智王GPT研发平台
 
 *   GPT+快速开发神器，全球首个集成式GPT开发平台。
-*   zw-GPT-stuido智王GPT，zwPython-AI最新优化升级版。
+*   全球三大集成式python开发平台，zwPython-AI最新优化升级版。
 *   强化了llm大语言模型的开发能力，
-*   zwPython，全球三大集成式python开发平台.
 *   采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
 
 智王AI研究院  ziwang.com   m-f.vip
