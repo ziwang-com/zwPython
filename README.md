@@ -6,16 +6,15 @@ zw-GPT-stuido智王GPT研发平台，全球首个集成式GPT开发平台。
 :: 采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
 :: 内置python版本是3.10；cuda开发环境为cuda12.x，pyTorch2.0
 
- zw-GPT-stuido说明
 智王AI研究院  ziwang.com   m-f.vip
 
 ## 智王AI项目，均采用 zw-GPT-stuido 进行开发：
  
-*  AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
-*  chinese-StableVicuna，全球首个StableVicuna中文优化版。
-*  AGI-MAP ，AGI模块库架构图
-*  mini-AGI，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链chain
-*  zero-lora，zero零训练llm调参算法
+*  AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
+*  chinese-StableVicuna，全球首个StableVicuna中文优化版。https://github.com/ziwang-com/chinese-StableVicuna
+*  AGI-MAP ，AGI模块库架构图 https://github.com/ziwang-com/AGI-MAP
+*  mini-AGI，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链chain https://github.com/ziwang-com/mini-AGI
+*  zero-lora，zero零训练llm调参算法 https://github.com/ziwang-com/zero-lora
 
  
 --------------------------
