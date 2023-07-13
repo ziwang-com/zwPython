@@ -12,7 +12,7 @@
 *  AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
 *  chinese-StableVicuna，全球首个StableVicuna中文优化版。https://github.com/ziwang-com/chinese-StableVicuna
 *  AGI-MAP ，AGI模块库架构图 https://github.com/ziwang-com/AGI-MAP
-*  mini-AGI，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链chain https://github.com/ziwang-com/mini-AGI
+*  mini-AGI，GPT+神器，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链chain https://github.com/ziwang-com/mini-AGI
 *  zero-lora，zero零训练llm调参算法 https://github.com/ziwang-com/zero-lora
 
  --------------------------
