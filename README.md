@@ -1,10 +1,10 @@
-zw-GPT-stuido智王GPT研发平台，全球首个集成式GPT开发平台。
+## zw-GPT-stuido智王GPT研发平台，全球首个集成式GPT开发平台。
 
-:: zw-GPT-stuido智王GPT，是基于zwPython-AI优化升级完成。
-:: 强化了llm大语言模型的开发能力，
-:: zwPython，全球三大集成式python开发平台.
-:: 采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
-:: 内置python版本是3.10；cuda开发环境为cuda12.x，pyTorch2.0
+*   zw-GPT-stuido智王GPT，是基于zwPython-AI优化升级完成。
+*   强化了llm大语言模型的开发能力，
+*   zwPython，全球三大集成式python开发平台.
+*   采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
+*   内置python版本是3.10；cuda开发环境为cuda12.x，pyTorch2.0
 
 智王AI研究院  ziwang.com   m-f.vip
 
