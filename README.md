@@ -16,15 +16,16 @@ zw-GPT-stuido智王GPT研发平台，全球首个集成式GPT开发平台。
 *  mini-AGI，迷你AGI，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链chain https://github.com/ziwang-com/mini-AGI
 *  zero-lora，zero零训练llm调参算法 https://github.com/ziwang-com/zero-lora
 
+ --------------------------
  
---------------------------
+![zw-GPT三合一+群二维码](https://github.com/ziwang-com/zwPython/assets/11691791/4bf27d1a-97c9-4055-a46b-7e0b90f4cdb6)
 
 【智王AI资源库】百度网盘提取码：hiks 
 https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks
 如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
 
 最新版本和更多资料，大家可以请访问以下网站：
-	:: zw网站：http://www.ziwang.com
+  :: zw网站：http://www.ziwang.com
   :: meta-font原字库：http://www.meta-font.vip,短域名m-f.vip
   :: 智王Git网址：https://github.com/ziwang-com/
   :: 智王迷你AGI项目：https://github.com/ziwang-com/zwAGI
