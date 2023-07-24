@@ -1,4 +1,4 @@
-## zw-GPT-stuido智王GPT研发平台
+## zw-GPT-studio智王GPT研发平台
 
 智王AI研究院  ziwang.com   m-f.vip
 
@@ -9,7 +9,7 @@
 
 
 
-## 智王AI项目，均采用 zw-GPT-stuido 开发：
+## 智王AI项目，均采用 zw-GPT-studio 开发：
  
 *  AGM阿格姆：AI基因图谱模型，从token-weight权重微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。https://github.com/ziwang-com/AGM
 *  chinese-StableVicuna，全球首个StableVicuna中文优化版。https://github.com/ziwang-com/chinese-StableVicuna
