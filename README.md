@@ -6,6 +6,7 @@
 *   全球三大集成式python开发平台，zwPython-AI最新优化升级版。
 *   强化了llm大语言模型的开发能力，
 *   采用苹果MAC电脑开箱即用模式，无需安装，解压即用。
+![xh003](https://github.com/user-attachments/assets/f47d69d8-29f1-40d1-8fe3-b9afd555ce47)
 
 
 
